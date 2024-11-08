@@ -54,7 +54,7 @@ const Trips = ({ search ,toggleDetiles, setDetailsItem }) => {
                       <p>
                         <span>{value.grade}</span>
                         <button className="btn">
-                          <i class="fa-solid fa-long-arrow-alt-right"></i>
+                          <i className="fa-solid fa-long-arrow-alt-right"></i>
                         </button>
                       </p>
                     </div>
@@ -74,7 +74,7 @@ const Trips = ({ search ,toggleDetiles, setDetailsItem }) => {
                       }}
                     >
                       <span>DETAILS</span>
-                      <i class="fa-regular fa-clipboard"></i>
+                      <i className="fa-regular fa-clipboard"></i>
                     </button>
                   </div>
                 </div>
